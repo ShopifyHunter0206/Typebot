@@ -95,11 +95,6 @@ You are awesome, lets build great software together. Head over to the [Contribut
 
 Follow the [Local installation](https://docs.typebot.io/contribute/guides/local-installation) section of in the Contributing docs.
 
-### Top contributors
-
-<a href="https://github.com/baptistearno/typebot.io/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=baptistearno/typebot.io" />
-</a>
 
 Made with [contrib.rocks](https://contrib.rocks).
 
